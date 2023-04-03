@@ -1,6 +1,6 @@
 public class FormDate {
-    public String day; // поле для даты
+    public int day; // поле для даты
     public String month; // поле месяца
-    public String year; // поле года
+    public int year; // поле года
 
 }
